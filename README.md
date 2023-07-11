@@ -1,6 +1,6 @@
-<h2>AWS DynamoDB CRUD Operations with AWS Lambda Function Integration</h2>
+<h2>AWS DynamoDB CRUD Operations from AWS Lambda Function Using NodeJS Runtime</h2>
 
-<h4>AWS Servicecs used:</h4>
+<h4>AWS Services used:</h4>
 <ol>
     <li>AWS API Gateway</li>
     <li>AWS Serverless Lambda</li>
